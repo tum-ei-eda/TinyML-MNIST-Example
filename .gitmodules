@@ -1,0 +1,3 @@
+[submodule "STM3240G-EVAL-TensorFlow-MNIST"]
+	path = STM3240G-EVAL-TensorFlow-MNIST
+	url = git@github.com:alxhoff/STM3240G-EVAL-TensorFlow-MNIST.git
